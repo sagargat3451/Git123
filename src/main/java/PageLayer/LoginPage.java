@@ -1,6 +1,6 @@
 package PageLayer;
 
-public class LoginPageClass {
+public class LoginPage {
 
 	
 	public static void ini() {
